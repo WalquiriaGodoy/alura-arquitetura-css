@@ -1,4 +1,4 @@
-# Curso: Arquitetura CSS: descomplicano os problemas
+# Curso: Arquitetura CSS: Descomplicano os Problemas
 ## Formação Front End Alura
 ---
 ### Conteúdo:
